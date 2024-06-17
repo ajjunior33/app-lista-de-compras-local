@@ -1,0 +1,1 @@
+ALTER TABLE `products` ADD `checked` integer DEFAULT false NOT NULL;
